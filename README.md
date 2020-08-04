@@ -181,11 +181,6 @@ K-Means outperforms the rest of the models in both the evaluation metrics (i.e. 
 
 In the future, it might be useful to try different variations of K-Means such as K-Means Hybrid Algorithms which capitalise on other algorithms to improve upon K-Means as K-Means gave the best results. Other metrics and techniques such as Dunn Index and Spectral Clustering can be tried and compared with our current techniques to see if they yield better results. These techniques can be tried on some labeled data, and it would be really easy to verify that how well our clusters actually separate anomalies from the normal traffic. Given a really powerful system, even bigger data can be used so that we have more instances to train and test our model.
 
-Acknowledgements
-================
-
-We take this opportunity to acknowledge the contributions of those who made this project work substantial. Our mentor, Dr. Tina Eliassi Rad constantly guided us in the right direction from recommending useful and up to date data sets to suggesting the art of the state techniques. This ensured our work was headed in the right direction at all times. Time and again, the Course material provided by our Professor, Dr. Tina Eliassi Rad, helped us resolve many minor hiccups we had in the course of the project. Other useful resources were Research papers on the topic that provided us with clear understanding of the problem, its intensity which helped us come up with good insights eventually.
-
 References
 ================
 
